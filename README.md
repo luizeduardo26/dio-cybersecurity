@@ -1,4 +1,4 @@
-# dio-cybersecurity
+# images
 Laboratório Público DIO
 
 Invasão ao sistema FTP na máquina Metasploitable 2
